@@ -1,0 +1,500 @@
+{"timestamp": 131.5, "input_length": 614, "output_length": 144, "hash_ids": [0, 1]}
+{"timestamp": 548.2, "input_length": 416, "output_length": 103, "hash_ids": [0]}
+{"timestamp": 740.1, "input_length": 2458, "output_length": 99, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 850.5, "input_length": 1945, "output_length": 65, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 879.2, "input_length": 948, "output_length": 274, "hash_ids": [0, 1]}
+{"timestamp": 1208.2, "input_length": 1549, "output_length": 176, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 1319.2, "input_length": 4417, "output_length": 323, "hash_ids": [0, 1, 2, 3, 4, 106, 107, 108, 109]}
+{"timestamp": 1842.7, "input_length": 725, "output_length": 327, "hash_ids": [0, 1]}
+{"timestamp": 1999.8, "input_length": 870, "output_length": 146, "hash_ids": [0, 1]}
+{"timestamp": 2061.5, "input_length": 1353, "output_length": 282, "hash_ids": [0, 1, 2]}
+{"timestamp": 2681.1, "input_length": 607, "output_length": 194, "hash_ids": [0, 1]}
+{"timestamp": 3207.1, "input_length": 1932, "output_length": 241, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 3457.5, "input_length": 1156, "output_length": 270, "hash_ids": [0, 1, 2]}
+{"timestamp": 3630.4, "input_length": 813, "output_length": 295, "hash_ids": [0, 1]}
+{"timestamp": 4204.0, "input_length": 1713, "output_length": 64, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 4317.8, "input_length": 1782, "output_length": 165, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 4373.9, "input_length": 1044, "output_length": 95, "hash_ids": [0, 1, 2]}
+{"timestamp": 4439.0, "input_length": 1132, "output_length": 62, "hash_ids": [0, 1, 2]}
+{"timestamp": 4756.5, "input_length": 4374, "output_length": 75, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 113]}
+{"timestamp": 4925.8, "input_length": 843, "output_length": 294, "hash_ids": [0, 1]}
+{"timestamp": 5054.3, "input_length": 2017, "output_length": 228, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 5381.8, "input_length": 3872, "output_length": 123, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112]}
+{"timestamp": 5474.4, "input_length": 643, "output_length": 246, "hash_ids": [0, 1]}
+{"timestamp": 5564.0, "input_length": 2338, "output_length": 121, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 5826.7, "input_length": 552, "output_length": 312, "hash_ids": [0, 1]}
+{"timestamp": 6433.8, "input_length": 2004, "output_length": 65, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 6581.0, "input_length": 2312, "output_length": 62, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 6688.4, "input_length": 955, "output_length": 75, "hash_ids": [0, 1]}
+{"timestamp": 7022.1, "input_length": 857, "output_length": 90, "hash_ids": [0, 1]}
+{"timestamp": 7149.8, "input_length": 871, "output_length": 229, "hash_ids": [0, 1]}
+{"timestamp": 7415.2, "input_length": 1646, "output_length": 216, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 7695.6, "input_length": 2877, "output_length": 118, "hash_ids": [0, 1, 2, 3, 4, 110]}
+{"timestamp": 7877.5, "input_length": 1416, "output_length": 204, "hash_ids": [0, 1, 2]}
+{"timestamp": 7946.2, "input_length": 4423, "output_length": 254, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 113]}
+{"timestamp": 8444.5, "input_length": 3523, "output_length": 273, "hash_ids": [0, 1, 2, 3, 4, 110, 111]}
+{"timestamp": 8493.2, "input_length": 2807, "output_length": 50, "hash_ids": [0, 1, 2, 3, 4, 114]}
+{"timestamp": 8510.7, "input_length": 2481, "output_length": 168, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 8868.1, "input_length": 1391, "output_length": 108, "hash_ids": [0, 1, 2]}
+{"timestamp": 8996.5, "input_length": 994, "output_length": 190, "hash_ids": [0, 1]}
+{"timestamp": 9066.0, "input_length": 2411, "output_length": 60, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 9272.8, "input_length": 1560, "output_length": 106, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 9503.3, "input_length": 688, "output_length": 187, "hash_ids": [0, 1]}
+{"timestamp": 10395.3, "input_length": 1064, "output_length": 99, "hash_ids": [0, 1, 2]}
+{"timestamp": 10535.8, "input_length": 781, "output_length": 175, "hash_ids": [0, 1]}
+{"timestamp": 10833.1, "input_length": 1330, "output_length": 77, "hash_ids": [0, 1, 2]}
+{"timestamp": 11284.5, "input_length": 743, "output_length": 133, "hash_ids": [0, 1]}
+{"timestamp": 11760.3, "input_length": 1778, "output_length": 79, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 11784.3, "input_length": 1884, "output_length": 90, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 12506.5, "input_length": 9040, "output_length": 84, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124]}
+{"timestamp": 12650.5, "input_length": 770, "output_length": 166, "hash_ids": [0, 1]}
+{"timestamp": 13369.9, "input_length": 712, "output_length": 243, "hash_ids": [0, 1]}
+{"timestamp": 13428.6, "input_length": 4726, "output_length": 117, "hash_ids": [0, 1, 2, 3, 4, 125, 126, 127, 128, 129]}
+{"timestamp": 13479.9, "input_length": 1511, "output_length": 108, "hash_ids": [0, 1, 2]}
+{"timestamp": 13697.4, "input_length": 1339, "output_length": 350, "hash_ids": [0, 1, 2]}
+{"timestamp": 13825.1, "input_length": 2504, "output_length": 86, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 14017.6, "input_length": 3952, "output_length": 298, "hash_ids": [0, 1, 2, 3, 4, 130, 131, 132]}
+{"timestamp": 14269.7, "input_length": 1882, "output_length": 99, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 14373.5, "input_length": 1402, "output_length": 92, "hash_ids": [0, 1, 2]}
+{"timestamp": 14572.9, "input_length": 1858, "output_length": 122, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 14646.2, "input_length": 280, "output_length": 258, "hash_ids": [0]}
+{"timestamp": 14802.4, "input_length": 1531, "output_length": 283, "hash_ids": [0, 1, 2]}
+{"timestamp": 14917.0, "input_length": 1217, "output_length": 166, "hash_ids": [0, 1, 2]}
+{"timestamp": 14969.1, "input_length": 2924, "output_length": 187, "hash_ids": [0, 1, 2, 3, 4, 110]}
+{"timestamp": 15083.3, "input_length": 1638, "output_length": 1021, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 15200.9, "input_length": 1189, "output_length": 164, "hash_ids": [0, 1, 2]}
+{"timestamp": 15309.6, "input_length": 4508, "output_length": 91, "hash_ids": [0, 1, 2, 3, 4, 133, 134, 135, 136]}
+{"timestamp": 15525.7, "input_length": 646, "output_length": 62, "hash_ids": [0, 1]}
+{"timestamp": 15589.2, "input_length": 1946, "output_length": 216, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 15781.8, "input_length": 2250, "output_length": 65, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 16189.5, "input_length": 2708, "output_length": 304, "hash_ids": [0, 1, 2, 3, 4, 125]}
+{"timestamp": 16372.8, "input_length": 1251, "output_length": 151, "hash_ids": [0, 1, 2]}
+{"timestamp": 16472.5, "input_length": 2149, "output_length": 184, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 16664.5, "input_length": 2099, "output_length": 77, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 16786.5, "input_length": 1185, "output_length": 71, "hash_ids": [0, 1, 2]}
+{"timestamp": 16988.2, "input_length": 2083, "output_length": 204, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 17246.9, "input_length": 1249, "output_length": 177, "hash_ids": [0, 1, 2]}
+{"timestamp": 17469.5, "input_length": 450, "output_length": 248, "hash_ids": [0]}
+{"timestamp": 17652.2, "input_length": 965, "output_length": 160, "hash_ids": [0, 1]}
+{"timestamp": 17825.2, "input_length": 2924, "output_length": 94, "hash_ids": [0, 1, 2, 3, 4, 110]}
+{"timestamp": 17953.0, "input_length": 3096, "output_length": 159, "hash_ids": [0, 1, 2, 3, 4, 133, 134]}
+{"timestamp": 18160.5, "input_length": 1366, "output_length": 207, "hash_ids": [0, 1, 2]}
+{"timestamp": 19547.2, "input_length": 559, "output_length": 211, "hash_ids": [0, 1]}
+{"timestamp": 19809.1, "input_length": 1398, "output_length": 276, "hash_ids": [0, 1, 2]}
+{"timestamp": 19895.5, "input_length": 1150, "output_length": 119, "hash_ids": [0, 1, 2]}
+{"timestamp": 20149.3, "input_length": 1734, "output_length": 143, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 20195.0, "input_length": 588, "output_length": 132, "hash_ids": [0, 1]}
+{"timestamp": 20426.7, "input_length": 3253, "output_length": 140, "hash_ids": [0, 1, 2, 3, 4, 125, 126]}
+{"timestamp": 20514.1, "input_length": 728, "output_length": 228, "hash_ids": [0, 1]}
+{"timestamp": 20570.3, "input_length": 365, "output_length": 41, "hash_ids": [0]}
+{"timestamp": 20857.8, "input_length": 1335, "output_length": 165, "hash_ids": [0, 1, 2]}
+{"timestamp": 20974.3, "input_length": 1562, "output_length": 86, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 21261.4, "input_length": 1205, "output_length": 64, "hash_ids": [0, 1, 2]}
+{"timestamp": 21452.1, "input_length": 1561, "output_length": 56, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 21694.8, "input_length": 1206, "output_length": 173, "hash_ids": [0, 1, 2]}
+{"timestamp": 21799.7, "input_length": 391, "output_length": 108, "hash_ids": [0]}
+{"timestamp": 21917.6, "input_length": 2325, "output_length": 375, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 22265.6, "input_length": 467, "output_length": 181, "hash_ids": [0]}
+{"timestamp": 22413.0, "input_length": 563, "output_length": 66, "hash_ids": [0, 1]}
+{"timestamp": 22465.9, "input_length": 4093, "output_length": 221, "hash_ids": [0, 1, 2, 3, 4, 137, 138, 139]}
+{"timestamp": 22519.1, "input_length": 762, "output_length": 169, "hash_ids": [0, 1]}
+{"timestamp": 22646.9, "input_length": 2099, "output_length": 165, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 23377.6, "input_length": 6458, "output_length": 213, "hash_ids": [0, 1, 2, 3, 4, 125, 126, 127, 128, 129, 140, 141, 142]}
+{"timestamp": 23546.7, "input_length": 164, "output_length": 124, "hash_ids": [0]}
+{"timestamp": 24130.6, "input_length": 799, "output_length": 131, "hash_ids": [0, 1]}
+{"timestamp": 24429.9, "input_length": 1352, "output_length": 100, "hash_ids": [0, 1, 2]}
+{"timestamp": 24770.4, "input_length": 626, "output_length": 336, "hash_ids": [0, 1]}
+{"timestamp": 24848.9, "input_length": 2034, "output_length": 99, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 24916.6, "input_length": 2155, "output_length": 222, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 25047.1, "input_length": 3252, "output_length": 78, "hash_ids": [0, 1, 2, 3, 4, 143, 144]}
+{"timestamp": 25441.5, "input_length": 2312, "output_length": 103, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 25757.8, "input_length": 3006, "output_length": 132, "hash_ids": [0, 1, 2, 3, 4, 133]}
+{"timestamp": 25982.0, "input_length": 273, "output_length": 151, "hash_ids": [0]}
+{"timestamp": 26174.7, "input_length": 384, "output_length": 130, "hash_ids": [0]}
+{"timestamp": 26183.5, "input_length": 1285, "output_length": 116, "hash_ids": [0, 1, 2]}
+{"timestamp": 26502.1, "input_length": 473, "output_length": 75, "hash_ids": [0]}
+{"timestamp": 26924.8, "input_length": 741, "output_length": 127, "hash_ids": [0, 1]}
+{"timestamp": 27119.3, "input_length": 3300, "output_length": 227, "hash_ids": [0, 1, 2, 3, 4, 125, 126]}
+{"timestamp": 27173.4, "input_length": 962, "output_length": 318, "hash_ids": [0, 1]}
+{"timestamp": 27759.4, "input_length": 514, "output_length": 223, "hash_ids": [0, 1]}
+{"timestamp": 27843.3, "input_length": 1184, "output_length": 171, "hash_ids": [0, 1, 2]}
+{"timestamp": 27987.6, "input_length": 2094, "output_length": 98, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 28493.0, "input_length": 2346, "output_length": 147, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 28614.9, "input_length": 7246, "output_length": 123, "hash_ids": [0, 1, 2, 3, 4, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154]}
+{"timestamp": 29093.1, "input_length": 3256, "output_length": 218, "hash_ids": [0, 1, 2, 3, 4, 155, 156]}
+{"timestamp": 29278.1, "input_length": 588, "output_length": 335, "hash_ids": [0, 1]}
+{"timestamp": 29364.4, "input_length": 637, "output_length": 38, "hash_ids": [0, 1]}
+{"timestamp": 30035.8, "input_length": 2434, "output_length": 281, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 30569.0, "input_length": 1389, "output_length": 126, "hash_ids": [0, 1, 2]}
+{"timestamp": 30596.7, "input_length": 4058, "output_length": 227, "hash_ids": [0, 1, 2, 3, 4, 137, 138, 139]}
+{"timestamp": 30750.5, "input_length": 846, "output_length": 230, "hash_ids": [0, 1]}
+{"timestamp": 31267.2, "input_length": 560, "output_length": 106, "hash_ids": [0, 1]}
+{"timestamp": 31964.7, "input_length": 641, "output_length": 39, "hash_ids": [0, 1]}
+{"timestamp": 32076.5, "input_length": 587, "output_length": 309, "hash_ids": [0, 1]}
+{"timestamp": 32286.4, "input_length": 621, "output_length": 106, "hash_ids": [0, 1]}
+{"timestamp": 32313.3, "input_length": 594, "output_length": 249, "hash_ids": [0, 1]}
+{"timestamp": 32465.6, "input_length": 1340, "output_length": 199, "hash_ids": [0, 1, 2]}
+{"timestamp": 32787.7, "input_length": 1243, "output_length": 73, "hash_ids": [0, 1, 2]}
+{"timestamp": 32855.9, "input_length": 677, "output_length": 245, "hash_ids": [0, 1]}
+{"timestamp": 33262.9, "input_length": 1286, "output_length": 236, "hash_ids": [0, 1, 2]}
+{"timestamp": 33558.2, "input_length": 146, "output_length": 288, "hash_ids": [0]}
+{"timestamp": 33733.9, "input_length": 947, "output_length": 546, "hash_ids": [0, 1]}
+{"timestamp": 33857.8, "input_length": 936, "output_length": 150, "hash_ids": [0, 1]}
+{"timestamp": 33863.6, "input_length": 2126, "output_length": 87, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 34115.2, "input_length": 2467, "output_length": 100, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 34538.7, "input_length": 3302, "output_length": 238, "hash_ids": [0, 1, 2, 3, 4, 133, 134]}
+{"timestamp": 34705.6, "input_length": 1894, "output_length": 96, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 35046.9, "input_length": 1155, "output_length": 177, "hash_ids": [0, 1, 2]}
+{"timestamp": 35193.5, "input_length": 322, "output_length": 106, "hash_ids": [0]}
+{"timestamp": 35590.3, "input_length": 2582, "output_length": 69, "hash_ids": [0, 1, 2, 3, 4, 157]}
+{"timestamp": 35735.1, "input_length": 3278, "output_length": 101, "hash_ids": [0, 1, 2, 3, 4, 125, 126]}
+{"timestamp": 35918.3, "input_length": 1679, "output_length": 74, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 35994.0, "input_length": 1880, "output_length": 195, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 36135.5, "input_length": 2967, "output_length": 334, "hash_ids": [0, 1, 2, 3, 4, 158]}
+{"timestamp": 36331.1, "input_length": 3221, "output_length": 168, "hash_ids": [0, 1, 2, 3, 4, 125, 126]}
+{"timestamp": 36664.1, "input_length": 567, "output_length": 328, "hash_ids": [0, 1]}
+{"timestamp": 36865.4, "input_length": 537, "output_length": 114, "hash_ids": [0, 1]}
+{"timestamp": 37081.8, "input_length": 2243, "output_length": 193, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 37140.1, "input_length": 4085, "output_length": 148, "hash_ids": [0, 1, 2, 3, 4, 137, 138, 139]}
+{"timestamp": 37455.4, "input_length": 410, "output_length": 125, "hash_ids": [0]}
+{"timestamp": 38004.4, "input_length": 1512, "output_length": 120, "hash_ids": [0, 1, 2]}
+{"timestamp": 38353.5, "input_length": 3600, "output_length": 127, "hash_ids": [0, 1, 2, 3, 4, 133, 134, 135]}
+{"timestamp": 38473.6, "input_length": 490, "output_length": 196, "hash_ids": [0]}
+{"timestamp": 38662.1, "input_length": 599, "output_length": 411, "hash_ids": [0, 1]}
+{"timestamp": 38763.5, "input_length": 1618, "output_length": 63, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 38990.7, "input_length": 2851, "output_length": 614, "hash_ids": [0, 1, 2, 3, 4, 159]}
+{"timestamp": 39426.0, "input_length": 329, "output_length": 255, "hash_ids": [0]}
+{"timestamp": 39493.5, "input_length": 1879, "output_length": 164, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 39587.9, "input_length": 1703, "output_length": 199, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 39827.8, "input_length": 824, "output_length": 346, "hash_ids": [0, 1]}
+{"timestamp": 39949.6, "input_length": 520, "output_length": 480, "hash_ids": [0, 1]}
+{"timestamp": 40157.7, "input_length": 3902, "output_length": 72, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112]}
+{"timestamp": 40502.0, "input_length": 1334, "output_length": 347, "hash_ids": [0, 1, 2]}
+{"timestamp": 40789.7, "input_length": 949, "output_length": 134, "hash_ids": [0, 1]}
+{"timestamp": 41186.0, "input_length": 1010, "output_length": 299, "hash_ids": [0, 1]}
+{"timestamp": 41762.4, "input_length": 875, "output_length": 147, "hash_ids": [0, 1]}
+{"timestamp": 41979.5, "input_length": 1955, "output_length": 131, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 42100.5, "input_length": 730, "output_length": 66, "hash_ids": [0, 1]}
+{"timestamp": 42556.7, "input_length": 462, "output_length": 73, "hash_ids": [0]}
+{"timestamp": 42867.2, "input_length": 401, "output_length": 95, "hash_ids": [0]}
+{"timestamp": 42922.3, "input_length": 1652, "output_length": 153, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 43052.6, "input_length": 750, "output_length": 80, "hash_ids": [0, 1]}
+{"timestamp": 43305.2, "input_length": 668, "output_length": 64, "hash_ids": [0, 1]}
+{"timestamp": 43420.2, "input_length": 563, "output_length": 227, "hash_ids": [0, 1]}
+{"timestamp": 43605.7, "input_length": 501, "output_length": 149, "hash_ids": [0]}
+{"timestamp": 43794.9, "input_length": 869, "output_length": 636, "hash_ids": [0, 1]}
+{"timestamp": 43986.0, "input_length": 380, "output_length": 166, "hash_ids": [0]}
+{"timestamp": 44266.1, "input_length": 1060, "output_length": 93, "hash_ids": [0, 1, 2]}
+{"timestamp": 44912.5, "input_length": 1670, "output_length": 162, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 45074.2, "input_length": 633, "output_length": 191, "hash_ids": [0, 1]}
+{"timestamp": 45710.8, "input_length": 1758, "output_length": 325, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 45901.4, "input_length": 873, "output_length": 358, "hash_ids": [0, 1]}
+{"timestamp": 46157.6, "input_length": 1167, "output_length": 45, "hash_ids": [0, 1, 2]}
+{"timestamp": 46268.6, "input_length": 1931, "output_length": 141, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 46467.0, "input_length": 722, "output_length": 259, "hash_ids": [0, 1]}
+{"timestamp": 46622.4, "input_length": 962, "output_length": 273, "hash_ids": [0, 1]}
+{"timestamp": 46806.4, "input_length": 1264, "output_length": 232, "hash_ids": [0, 1, 2]}
+{"timestamp": 47019.9, "input_length": 2155, "output_length": 197, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 47199.4, "input_length": 650, "output_length": 257, "hash_ids": [0, 1]}
+{"timestamp": 47228.5, "input_length": 1359, "output_length": 493, "hash_ids": [0, 1, 2]}
+{"timestamp": 47307.6, "input_length": 1872, "output_length": 232, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 47349.8, "input_length": 784, "output_length": 116, "hash_ids": [0, 1]}
+{"timestamp": 47457.5, "input_length": 1433, "output_length": 73, "hash_ids": [0, 1, 2]}
+{"timestamp": 47907.1, "input_length": 590, "output_length": 139, "hash_ids": [0, 1]}
+{"timestamp": 48343.9, "input_length": 1268, "output_length": 167, "hash_ids": [0, 1, 2]}
+{"timestamp": 48466.8, "input_length": 2927, "output_length": 116, "hash_ids": [0, 1, 2, 3, 4, 137]}
+{"timestamp": 48490.7, "input_length": 2157, "output_length": 136, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 48819.9, "input_length": 1169, "output_length": 173, "hash_ids": [0, 1, 2]}
+{"timestamp": 49150.5, "input_length": 315, "output_length": 154, "hash_ids": [0]}
+{"timestamp": 49175.1, "input_length": 856, "output_length": 84, "hash_ids": [0, 1]}
+{"timestamp": 49250.4, "input_length": 357, "output_length": 113, "hash_ids": [0]}
+{"timestamp": 49517.5, "input_length": 359, "output_length": 250, "hash_ids": [0]}
+{"timestamp": 49892.3, "input_length": 1132, "output_length": 54, "hash_ids": [0, 1, 2]}
+{"timestamp": 49983.7, "input_length": 835, "output_length": 233, "hash_ids": [0, 1]}
+{"timestamp": 50534.6, "input_length": 883, "output_length": 125, "hash_ids": [0, 1]}
+{"timestamp": 50680.4, "input_length": 1034, "output_length": 137, "hash_ids": [0, 1, 2]}
+{"timestamp": 51046.4, "input_length": 407, "output_length": 144, "hash_ids": [0]}
+{"timestamp": 51111.9, "input_length": 906, "output_length": 873, "hash_ids": [0, 1]}
+{"timestamp": 51739.4, "input_length": 1153, "output_length": 112, "hash_ids": [0, 1, 2]}
+{"timestamp": 51812.7, "input_length": 2675, "output_length": 135, "hash_ids": [0, 1, 2, 3, 4, 125]}
+{"timestamp": 52295.0, "input_length": 1599, "output_length": 87, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 52489.8, "input_length": 3978, "output_length": 101, "hash_ids": [0, 1, 2, 3, 4, 160, 161, 162]}
+{"timestamp": 52723.2, "input_length": 1741, "output_length": 292, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 53348.7, "input_length": 1082, "output_length": 148, "hash_ids": [0, 1, 2]}
+{"timestamp": 53415.7, "input_length": 2019, "output_length": 223, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 53733.1, "input_length": 624, "output_length": 165, "hash_ids": [0, 1]}
+{"timestamp": 54116.2, "input_length": 691, "output_length": 94, "hash_ids": [0, 1]}
+{"timestamp": 54529.6, "input_length": 850, "output_length": 307, "hash_ids": [0, 1]}
+{"timestamp": 54659.2, "input_length": 4095, "output_length": 708, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112]}
+{"timestamp": 54910.7, "input_length": 1287, "output_length": 89, "hash_ids": [0, 1, 2]}
+{"timestamp": 55108.9, "input_length": 679, "output_length": 389, "hash_ids": [0, 1]}
+{"timestamp": 55237.9, "input_length": 456, "output_length": 122, "hash_ids": [0]}
+{"timestamp": 55450.0, "input_length": 901, "output_length": 424, "hash_ids": [0, 1]}
+{"timestamp": 55623.1, "input_length": 658, "output_length": 287, "hash_ids": [0, 1]}
+{"timestamp": 55731.0, "input_length": 3358, "output_length": 134, "hash_ids": [0, 1, 2, 3, 4, 110, 111]}
+{"timestamp": 55888.1, "input_length": 1855, "output_length": 58, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 56264.8, "input_length": 1259, "output_length": 130, "hash_ids": [0, 1, 2]}
+{"timestamp": 56281.2, "input_length": 220, "output_length": 190, "hash_ids": [0]}
+{"timestamp": 56339.8, "input_length": 1717, "output_length": 53, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 56564.0, "input_length": 498, "output_length": 94, "hash_ids": [0]}
+{"timestamp": 56930.0, "input_length": 924, "output_length": 123, "hash_ids": [0, 1]}
+{"timestamp": 57155.3, "input_length": 684, "output_length": 81, "hash_ids": [0, 1]}
+{"timestamp": 57217.1, "input_length": 1659, "output_length": 111, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 57584.3, "input_length": 1242, "output_length": 129, "hash_ids": [0, 1, 2]}
+{"timestamp": 57862.6, "input_length": 1844, "output_length": 135, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 58109.9, "input_length": 2448, "output_length": 157, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 58538.6, "input_length": 2495, "output_length": 313, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 58917.0, "input_length": 481, "output_length": 258, "hash_ids": [0]}
+{"timestamp": 59039.6, "input_length": 4665, "output_length": 82, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 113, 163]}
+{"timestamp": 59140.2, "input_length": 1309, "output_length": 119, "hash_ids": [0, 1, 2]}
+{"timestamp": 59390.3, "input_length": 1823, "output_length": 202, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 59488.2, "input_length": 838, "output_length": 326, "hash_ids": [0, 1]}
+{"timestamp": 59710.1, "input_length": 735, "output_length": 136, "hash_ids": [0, 1]}
+{"timestamp": 59844.7, "input_length": 2742, "output_length": 479, "hash_ids": [0, 1, 2, 3, 4, 133]}
+{"timestamp": 59945.9, "input_length": 935, "output_length": 237, "hash_ids": [0, 1]}
+{"timestamp": 60195.0, "input_length": 1562, "output_length": 57, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 60567.8, "input_length": 686, "output_length": 72, "hash_ids": [0, 1]}
+{"timestamp": 60782.3, "input_length": 941, "output_length": 115, "hash_ids": [0, 1]}
+{"timestamp": 60835.8, "input_length": 1365, "output_length": 319, "hash_ids": [0, 1, 2]}
+{"timestamp": 60879.7, "input_length": 1800, "output_length": 729, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 61146.0, "input_length": 1129, "output_length": 238, "hash_ids": [0, 1, 2]}
+{"timestamp": 61600.3, "input_length": 1790, "output_length": 366, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 61842.8, "input_length": 1027, "output_length": 246, "hash_ids": [0, 1, 2]}
+{"timestamp": 62044.3, "input_length": 4189, "output_length": 96, "hash_ids": [0, 1, 2, 3, 4, 164, 165, 166, 167]}
+{"timestamp": 62350.5, "input_length": 1271, "output_length": 200, "hash_ids": [0, 1, 2]}
+{"timestamp": 62771.7, "input_length": 987, "output_length": 87, "hash_ids": [0, 1]}
+{"timestamp": 62878.0, "input_length": 4831, "output_length": 129, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 113, 168]}
+{"timestamp": 63215.9, "input_length": 4509, "output_length": 109, "hash_ids": [0, 1, 2, 3, 4, 125, 126, 127, 128]}
+{"timestamp": 63309.5, "input_length": 1158, "output_length": 239, "hash_ids": [0, 1, 2]}
+{"timestamp": 63317.1, "input_length": 1159, "output_length": 86, "hash_ids": [0, 1, 2]}
+{"timestamp": 63603.7, "input_length": 809, "output_length": 174, "hash_ids": [0, 1]}
+{"timestamp": 63718.8, "input_length": 840, "output_length": 156, "hash_ids": [0, 1]}
+{"timestamp": 64097.4, "input_length": 275, "output_length": 106, "hash_ids": [0]}
+{"timestamp": 64460.2, "input_length": 1180, "output_length": 109, "hash_ids": [0, 1, 2]}
+{"timestamp": 64951.1, "input_length": 668, "output_length": 87, "hash_ids": [0, 1]}
+{"timestamp": 65289.7, "input_length": 1407, "output_length": 362, "hash_ids": [0, 1, 2]}
+{"timestamp": 65483.1, "input_length": 503, "output_length": 125, "hash_ids": [0]}
+{"timestamp": 65810.3, "input_length": 2654, "output_length": 181, "hash_ids": [0, 1, 2, 3, 4, 125]}
+{"timestamp": 65900.9, "input_length": 1254, "output_length": 113, "hash_ids": [0, 1, 2]}
+{"timestamp": 66333.6, "input_length": 1351, "output_length": 139, "hash_ids": [0, 1, 2]}
+{"timestamp": 66470.3, "input_length": 289, "output_length": 96, "hash_ids": [0]}
+{"timestamp": 66834.3, "input_length": 342, "output_length": 322, "hash_ids": [0]}
+{"timestamp": 67061.3, "input_length": 2382, "output_length": 92, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 67097.9, "input_length": 2352, "output_length": 644, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 67247.8, "input_length": 865, "output_length": 323, "hash_ids": [0, 1]}
+{"timestamp": 67308.9, "input_length": 1726, "output_length": 128, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 67898.3, "input_length": 617, "output_length": 106, "hash_ids": [0, 1]}
+{"timestamp": 69170.5, "input_length": 1015, "output_length": 36, "hash_ids": [0, 1]}
+{"timestamp": 69519.1, "input_length": 1941, "output_length": 122, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 69556.0, "input_length": 1847, "output_length": 115, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 69771.0, "input_length": 10924, "output_length": 54, "hash_ids": [0, 1, 2, 3, 4, 125, 126, 127, 128, 129, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180]}
+{"timestamp": 70051.8, "input_length": 697, "output_length": 226, "hash_ids": [0, 1]}
+{"timestamp": 70277.7, "input_length": 6980, "output_length": 81, "hash_ids": [0, 1, 2, 3, 4, 181, 182, 183, 184, 185, 186, 187, 188, 189]}
+{"timestamp": 70437.9, "input_length": 4819, "output_length": 85, "hash_ids": [0, 1, 2, 3, 4, 125, 126, 127, 128, 129]}
+{"timestamp": 70784.5, "input_length": 3312, "output_length": 155, "hash_ids": [0, 1, 2, 3, 4, 110, 111]}
+{"timestamp": 70937.3, "input_length": 6380, "output_length": 432, "hash_ids": [0, 1, 2, 3, 4, 190, 191, 192, 193, 194, 195, 196, 197]}
+{"timestamp": 71073.9, "input_length": 851, "output_length": 863, "hash_ids": [0, 1]}
+{"timestamp": 71612.8, "input_length": 609, "output_length": 122, "hash_ids": [0, 1]}
+{"timestamp": 71820.1, "input_length": 4748, "output_length": 95, "hash_ids": [0, 1, 2, 3, 4, 198, 199, 200, 201, 202]}
+{"timestamp": 71970.4, "input_length": 854, "output_length": 160, "hash_ids": [0, 1]}
+{"timestamp": 72154.4, "input_length": 1838, "output_length": 187, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 72408.4, "input_length": 794, "output_length": 167, "hash_ids": [0, 1]}
+{"timestamp": 72507.2, "input_length": 2092, "output_length": 365, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 72950.0, "input_length": 1685, "output_length": 69, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 73208.0, "input_length": 1366, "output_length": 102, "hash_ids": [0, 1, 2]}
+{"timestamp": 73407.4, "input_length": 3372, "output_length": 54, "hash_ids": [0, 1, 2, 3, 4, 125, 126]}
+{"timestamp": 73480.9, "input_length": 1981, "output_length": 78, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 73778.1, "input_length": 3263, "output_length": 235, "hash_ids": [0, 1, 2, 3, 4, 125, 126]}
+{"timestamp": 73865.8, "input_length": 1561, "output_length": 200, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 74125.7, "input_length": 1058, "output_length": 222, "hash_ids": [0, 1, 2]}
+{"timestamp": 74336.2, "input_length": 1293, "output_length": 230, "hash_ids": [0, 1, 2]}
+{"timestamp": 74916.3, "input_length": 1395, "output_length": 33, "hash_ids": [0, 1, 2]}
+{"timestamp": 75309.6, "input_length": 934, "output_length": 368, "hash_ids": [0, 1]}
+{"timestamp": 75440.5, "input_length": 3702, "output_length": 158, "hash_ids": [0, 1, 2, 3, 4, 203, 204, 205]}
+{"timestamp": 75699.7, "input_length": 1226, "output_length": 121, "hash_ids": [0, 1, 2]}
+{"timestamp": 76424.3, "input_length": 2082, "output_length": 210, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 76556.3, "input_length": 674, "output_length": 220, "hash_ids": [0, 1]}
+{"timestamp": 76745.1, "input_length": 3174, "output_length": 83, "hash_ids": [0, 1, 2, 3, 4, 137, 138]}
+{"timestamp": 76979.4, "input_length": 1175, "output_length": 196, "hash_ids": [0, 1, 2]}
+{"timestamp": 77113.9, "input_length": 2221, "output_length": 115, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 77395.9, "input_length": 925, "output_length": 112, "hash_ids": [0, 1]}
+{"timestamp": 77620.7, "input_length": 1754, "output_length": 191, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 77872.3, "input_length": 1321, "output_length": 65, "hash_ids": [0, 1, 2]}
+{"timestamp": 78132.0, "input_length": 624, "output_length": 217, "hash_ids": [0, 1]}
+{"timestamp": 78339.5, "input_length": 569, "output_length": 170, "hash_ids": [0, 1]}
+{"timestamp": 78438.7, "input_length": 1040, "output_length": 103, "hash_ids": [0, 1, 2]}
+{"timestamp": 78710.7, "input_length": 1364, "output_length": 405, "hash_ids": [0, 1, 2]}
+{"timestamp": 79137.8, "input_length": 1639, "output_length": 124, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 79672.3, "input_length": 477, "output_length": 201, "hash_ids": [0]}
+{"timestamp": 80013.2, "input_length": 2968, "output_length": 213, "hash_ids": [0, 1, 2, 3, 4, 133]}
+{"timestamp": 80048.3, "input_length": 3029, "output_length": 197, "hash_ids": [0, 1, 2, 3, 4, 206]}
+{"timestamp": 80332.4, "input_length": 537, "output_length": 144, "hash_ids": [0, 1]}
+{"timestamp": 80576.8, "input_length": 1934, "output_length": 228, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 80976.7, "input_length": 948, "output_length": 142, "hash_ids": [0, 1]}
+{"timestamp": 81309.8, "input_length": 1730, "output_length": 318, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 81524.4, "input_length": 2707, "output_length": 218, "hash_ids": [0, 1, 2, 3, 4, 133]}
+{"timestamp": 81680.7, "input_length": 1767, "output_length": 80, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 82009.7, "input_length": 619, "output_length": 140, "hash_ids": [0, 1]}
+{"timestamp": 82643.1, "input_length": 2776, "output_length": 188, "hash_ids": [0, 1, 2, 3, 4, 137]}
+{"timestamp": 82816.6, "input_length": 1983, "output_length": 60, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 83212.2, "input_length": 481, "output_length": 290, "hash_ids": [0]}
+{"timestamp": 83263.2, "input_length": 1307, "output_length": 67, "hash_ids": [0, 1, 2]}
+{"timestamp": 84213.1, "input_length": 2483, "output_length": 173, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 84642.9, "input_length": 10572, "output_length": 314, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219]}
+{"timestamp": 84707.0, "input_length": 1707, "output_length": 135, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 85076.3, "input_length": 1575, "output_length": 139, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 85116.3, "input_length": 489, "output_length": 258, "hash_ids": [0]}
+{"timestamp": 85254.8, "input_length": 1623, "output_length": 28, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 85337.7, "input_length": 858, "output_length": 90, "hash_ids": [0, 1]}
+{"timestamp": 85606.0, "input_length": 2661, "output_length": 144, "hash_ids": [0, 1, 2, 3, 4, 220]}
+{"timestamp": 85698.1, "input_length": 3794, "output_length": 57, "hash_ids": [0, 1, 2, 3, 4, 221, 222, 223]}
+{"timestamp": 85816.8, "input_length": 630, "output_length": 281, "hash_ids": [0, 1]}
+{"timestamp": 85898.7, "input_length": 846, "output_length": 78, "hash_ids": [0, 1]}
+{"timestamp": 86022.2, "input_length": 926, "output_length": 94, "hash_ids": [0, 1]}
+{"timestamp": 86037.9, "input_length": 1953, "output_length": 290, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 86125.5, "input_length": 441, "output_length": 124, "hash_ids": [0]}
+{"timestamp": 86284.7, "input_length": 1352, "output_length": 155, "hash_ids": [0, 1, 2]}
+{"timestamp": 86604.7, "input_length": 2400, "output_length": 159, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 86726.8, "input_length": 892, "output_length": 76, "hash_ids": [0, 1]}
+{"timestamp": 86829.9, "input_length": 373, "output_length": 118, "hash_ids": [0]}
+{"timestamp": 87051.4, "input_length": 1353, "output_length": 258, "hash_ids": [0, 1, 2]}
+{"timestamp": 87323.5, "input_length": 1028, "output_length": 598, "hash_ids": [0, 1, 2]}
+{"timestamp": 87454.8, "input_length": 1269, "output_length": 111, "hash_ids": [0, 1, 2]}
+{"timestamp": 87816.1, "input_length": 1748, "output_length": 82, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 87857.6, "input_length": 1550, "output_length": 43, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 88086.1, "input_length": 2150, "output_length": 154, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 88221.9, "input_length": 1552, "output_length": 162, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 88517.8, "input_length": 549, "output_length": 86, "hash_ids": [0, 1]}
+{"timestamp": 88836.0, "input_length": 4009, "output_length": 199, "hash_ids": [0, 1, 2, 3, 4, 224, 225, 226]}
+{"timestamp": 89189.6, "input_length": 881, "output_length": 191, "hash_ids": [0, 1]}
+{"timestamp": 89526.5, "input_length": 1781, "output_length": 479, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 89838.1, "input_length": 2913, "output_length": 189, "hash_ids": [0, 1, 2, 3, 4, 227]}
+{"timestamp": 90164.2, "input_length": 978, "output_length": 432, "hash_ids": [0, 1]}
+{"timestamp": 90364.9, "input_length": 1247, "output_length": 88, "hash_ids": [0, 1, 2]}
+{"timestamp": 90504.1, "input_length": 570, "output_length": 88, "hash_ids": [0, 1]}
+{"timestamp": 90598.4, "input_length": 1038, "output_length": 234, "hash_ids": [0, 1, 2]}
+{"timestamp": 90850.5, "input_length": 2538, "output_length": 296, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 91097.8, "input_length": 1490, "output_length": 244, "hash_ids": [0, 1, 2]}
+{"timestamp": 91660.6, "input_length": 6512, "output_length": 256, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 113, 228, 229, 230, 231]}
+{"timestamp": 92185.3, "input_length": 4113, "output_length": 59, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 232]}
+{"timestamp": 92341.8, "input_length": 796, "output_length": 94, "hash_ids": [0, 1]}
+{"timestamp": 92743.7, "input_length": 205, "output_length": 155, "hash_ids": [0]}
+{"timestamp": 92911.3, "input_length": 3550, "output_length": 107, "hash_ids": [0, 1, 2, 3, 4, 110, 111]}
+{"timestamp": 92930.9, "input_length": 1535, "output_length": 88, "hash_ids": [0, 1, 2]}
+{"timestamp": 93138.2, "input_length": 949, "output_length": 176, "hash_ids": [0, 1]}
+{"timestamp": 93486.8, "input_length": 579, "output_length": 300, "hash_ids": [0, 1]}
+{"timestamp": 94044.6, "input_length": 349, "output_length": 180, "hash_ids": [0]}
+{"timestamp": 94112.7, "input_length": 949, "output_length": 362, "hash_ids": [0, 1]}
+{"timestamp": 94140.5, "input_length": 2283, "output_length": 42, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 94406.0, "input_length": 245, "output_length": 81, "hash_ids": [0]}
+{"timestamp": 94517.3, "input_length": 942, "output_length": 132, "hash_ids": [0, 1]}
+{"timestamp": 95078.3, "input_length": 1368, "output_length": 222, "hash_ids": [0, 1, 2]}
+{"timestamp": 95220.3, "input_length": 514, "output_length": 50, "hash_ids": [0, 1]}
+{"timestamp": 95300.9, "input_length": 1598, "output_length": 119, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 95443.7, "input_length": 1245, "output_length": 100, "hash_ids": [0, 1, 2]}
+{"timestamp": 95507.3, "input_length": 1186, "output_length": 362, "hash_ids": [0, 1, 2]}
+{"timestamp": 95586.3, "input_length": 429, "output_length": 71, "hash_ids": [0]}
+{"timestamp": 95933.2, "input_length": 2098, "output_length": 380, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 96122.0, "input_length": 1159, "output_length": 69, "hash_ids": [0, 1, 2]}
+{"timestamp": 96346.6, "input_length": 330, "output_length": 173, "hash_ids": [0]}
+{"timestamp": 96516.1, "input_length": 558, "output_length": 547, "hash_ids": [0, 1]}
+{"timestamp": 96580.5, "input_length": 6898, "output_length": 169, "hash_ids": [0, 1, 2, 3, 4, 233, 234, 235, 236, 237, 238, 239, 240, 241]}
+{"timestamp": 96835.7, "input_length": 1881, "output_length": 138, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 97000.3, "input_length": 2978, "output_length": 148, "hash_ids": [0, 1, 2, 3, 4, 110]}
+{"timestamp": 97099.9, "input_length": 1400, "output_length": 335, "hash_ids": [0, 1, 2]}
+{"timestamp": 97439.9, "input_length": 2076, "output_length": 533, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 97728.8, "input_length": 425, "output_length": 106, "hash_ids": [0]}
+{"timestamp": 97804.0, "input_length": 711, "output_length": 245, "hash_ids": [0, 1]}
+{"timestamp": 97855.1, "input_length": 948, "output_length": 213, "hash_ids": [0, 1]}
+{"timestamp": 97961.2, "input_length": 590, "output_length": 140, "hash_ids": [0, 1]}
+{"timestamp": 98044.8, "input_length": 6686, "output_length": 396, "hash_ids": [0, 1, 2, 3, 4, 137, 138, 139, 242, 243, 244, 245, 246, 247]}
+{"timestamp": 98052.6, "input_length": 359, "output_length": 184, "hash_ids": [0]}
+{"timestamp": 98135.1, "input_length": 2388, "output_length": 110, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 98257.4, "input_length": 619, "output_length": 220, "hash_ids": [0, 1]}
+{"timestamp": 98277.9, "input_length": 1437, "output_length": 206, "hash_ids": [0, 1, 2]}
+{"timestamp": 98395.4, "input_length": 1199, "output_length": 601, "hash_ids": [0, 1, 2]}
+{"timestamp": 98818.7, "input_length": 706, "output_length": 110, "hash_ids": [0, 1]}
+{"timestamp": 99247.0, "input_length": 1920, "output_length": 230, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 99721.9, "input_length": 510, "output_length": 323, "hash_ids": [0]}
+{"timestamp": 99790.3, "input_length": 482, "output_length": 148, "hash_ids": [0]}
+{"timestamp": 100273.6, "input_length": 1080, "output_length": 97, "hash_ids": [0, 1, 2]}
+{"timestamp": 100515.5, "input_length": 2960, "output_length": 36, "hash_ids": [0, 1, 2, 3, 4, 248]}
+{"timestamp": 100734.7, "input_length": 803, "output_length": 86, "hash_ids": [0, 1]}
+{"timestamp": 101096.3, "input_length": 2471, "output_length": 376, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 101152.8, "input_length": 2304, "output_length": 342, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 101202.5, "input_length": 282, "output_length": 163, "hash_ids": [0]}
+{"timestamp": 101517.9, "input_length": 508, "output_length": 118, "hash_ids": [0]}
+{"timestamp": 101668.9, "input_length": 1589, "output_length": 157, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 101916.0, "input_length": 3508, "output_length": 45, "hash_ids": [0, 1, 2, 3, 4, 133, 134]}
+{"timestamp": 102210.7, "input_length": 746, "output_length": 61, "hash_ids": [0, 1]}
+{"timestamp": 102588.0, "input_length": 425, "output_length": 271, "hash_ids": [0]}
+{"timestamp": 102917.9, "input_length": 1521, "output_length": 377, "hash_ids": [0, 1, 2]}
+{"timestamp": 103315.9, "input_length": 3070, "output_length": 154, "hash_ids": [0, 1, 2, 3, 4, 110]}
+{"timestamp": 103521.7, "input_length": 679, "output_length": 269, "hash_ids": [0, 1]}
+{"timestamp": 103678.2, "input_length": 825, "output_length": 72, "hash_ids": [0, 1]}
+{"timestamp": 103867.5, "input_length": 598, "output_length": 159, "hash_ids": [0, 1]}
+{"timestamp": 104061.6, "input_length": 3248, "output_length": 153, "hash_ids": [0, 1, 2, 3, 4, 133, 134]}
+{"timestamp": 104232.7, "input_length": 3156, "output_length": 156, "hash_ids": [0, 1, 2, 3, 4, 249, 250]}
+{"timestamp": 104296.0, "input_length": 993, "output_length": 759, "hash_ids": [0, 1]}
+{"timestamp": 104831.3, "input_length": 4792, "output_length": 167, "hash_ids": [0, 1, 2, 3, 4, 251, 252, 253, 254, 255]}
+{"timestamp": 105112.9, "input_length": 748, "output_length": 56, "hash_ids": [0, 1]}
+{"timestamp": 105265.7, "input_length": 1773, "output_length": 127, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 105428.2, "input_length": 1857, "output_length": 180, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 105862.6, "input_length": 1817, "output_length": 294, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 106261.0, "input_length": 1668, "output_length": 96, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 106552.1, "input_length": 781, "output_length": 210, "hash_ids": [0, 1]}
+{"timestamp": 106828.1, "input_length": 632, "output_length": 228, "hash_ids": [0, 1]}
+{"timestamp": 107162.9, "input_length": 2208, "output_length": 144, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 107231.0, "input_length": 775, "output_length": 51, "hash_ids": [0, 1]}
+{"timestamp": 107399.3, "input_length": 609, "output_length": 55, "hash_ids": [0, 1]}
+{"timestamp": 107672.8, "input_length": 1364, "output_length": 113, "hash_ids": [0, 1, 2]}
+{"timestamp": 108286.0, "input_length": 703, "output_length": 250, "hash_ids": [0, 1]}
+{"timestamp": 108835.1, "input_length": 1466, "output_length": 152, "hash_ids": [0, 1, 2]}
+{"timestamp": 108963.8, "input_length": 1979, "output_length": 276, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 109342.0, "input_length": 436, "output_length": 226, "hash_ids": [0]}
+{"timestamp": 109524.5, "input_length": 377, "output_length": 92, "hash_ids": [0]}
+{"timestamp": 109953.4, "input_length": 2720, "output_length": 224, "hash_ids": [0, 1, 2, 3, 4, 125]}
+{"timestamp": 110144.4, "input_length": 2133, "output_length": 165, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 110313.7, "input_length": 3601, "output_length": 58, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112]}
+{"timestamp": 110786.7, "input_length": 1081, "output_length": 152, "hash_ids": [0, 1, 2]}
+{"timestamp": 110874.1, "input_length": 5567, "output_length": 274, "hash_ids": [0, 1, 2, 3, 4, 133, 134, 135, 136, 256, 257]}
+{"timestamp": 111224.2, "input_length": 2770, "output_length": 93, "hash_ids": [0, 1, 2, 3, 4, 251]}
+{"timestamp": 111563.5, "input_length": 6468, "output_length": 196, "hash_ids": [0, 1, 2, 3, 4, 251, 252, 253, 254, 255, 258, 259, 260]}
+{"timestamp": 111764.7, "input_length": 662, "output_length": 606, "hash_ids": [0, 1]}
+{"timestamp": 111960.3, "input_length": 493, "output_length": 88, "hash_ids": [0]}
+{"timestamp": 112314.6, "input_length": 1137, "output_length": 82, "hash_ids": [0, 1, 2]}
+{"timestamp": 112494.7, "input_length": 1937, "output_length": 175, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 112508.6, "input_length": 1450, "output_length": 462, "hash_ids": [0, 1, 2]}
+{"timestamp": 112616.2, "input_length": 426, "output_length": 336, "hash_ids": [0]}
+{"timestamp": 112740.3, "input_length": 752, "output_length": 356, "hash_ids": [0, 1]}
+{"timestamp": 112754.3, "input_length": 5082, "output_length": 590, "hash_ids": [0, 1, 2, 3, 4, 137, 138, 139, 242, 243]}
+{"timestamp": 112848.6, "input_length": 1172, "output_length": 73, "hash_ids": [0, 1, 2]}
+{"timestamp": 113227.8, "input_length": 1685, "output_length": 143, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 113810.9, "input_length": 389, "output_length": 230, "hash_ids": [0]}
+{"timestamp": 113863.5, "input_length": 702, "output_length": 352, "hash_ids": [0, 1]}
+{"timestamp": 114138.1, "input_length": 2632, "output_length": 125, "hash_ids": [0, 1, 2, 3, 4, 261]}
+{"timestamp": 114523.5, "input_length": 1373, "output_length": 128, "hash_ids": [0, 1, 2]}
+{"timestamp": 114674.4, "input_length": 972, "output_length": 952, "hash_ids": [0, 1]}
+{"timestamp": 114978.4, "input_length": 695, "output_length": 153, "hash_ids": [0, 1]}
+{"timestamp": 115261.6, "input_length": 2681, "output_length": 117, "hash_ids": [0, 1, 2, 3, 4, 262]}
+{"timestamp": 115441.9, "input_length": 862, "output_length": 66, "hash_ids": [0, 1]}
+{"timestamp": 115598.7, "input_length": 3085, "output_length": 227, "hash_ids": [0, 1, 2, 3, 4, 133, 134]}
+{"timestamp": 115690.2, "input_length": 1861, "output_length": 60, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 115760.6, "input_length": 1905, "output_length": 176, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 116166.3, "input_length": 1057, "output_length": 64, "hash_ids": [0, 1, 2]}
+{"timestamp": 116249.5, "input_length": 1287, "output_length": 88, "hash_ids": [0, 1, 2]}
+{"timestamp": 116542.1, "input_length": 1416, "output_length": 154, "hash_ids": [0, 1, 2]}
+{"timestamp": 116875.8, "input_length": 1057, "output_length": 251, "hash_ids": [0, 1, 2]}
+{"timestamp": 117342.6, "input_length": 1278, "output_length": 203, "hash_ids": [0, 1, 2]}
+{"timestamp": 117782.7, "input_length": 1795, "output_length": 271, "hash_ids": [0, 1, 2, 3]}
+{"timestamp": 117987.2, "input_length": 682, "output_length": 120, "hash_ids": [0, 1]}
+{"timestamp": 118254.5, "input_length": 2553, "output_length": 162, "hash_ids": [0, 1, 2, 3, 4]}
+{"timestamp": 118563.3, "input_length": 2945, "output_length": 232, "hash_ids": [0, 1, 2, 3, 4, 263]}
+{"timestamp": 118874.2, "input_length": 981, "output_length": 251, "hash_ids": [0, 1]}
+{"timestamp": 118925.1, "input_length": 1118, "output_length": 263, "hash_ids": [0, 1, 2]}
+{"timestamp": 119067.3, "input_length": 4903, "output_length": 285, "hash_ids": [0, 1, 2, 3, 4, 110, 111, 112, 113, 264]}
+{"timestamp": 119112.5, "input_length": 6651, "output_length": 58, "hash_ids": [0, 1, 2, 3, 4, 251, 252, 253, 254, 255, 265, 266, 267]}
+{"timestamp": 119257.7, "input_length": 912, "output_length": 126, "hash_ids": [0, 1]}
+{"timestamp": 119303.2, "input_length": 1012, "output_length": 185, "hash_ids": [0, 1]}
+{"timestamp": 119357.9, "input_length": 1035, "output_length": 288, "hash_ids": [0, 1, 2]}
+{"timestamp": 120000.0, "input_length": 2668, "output_length": 190, "hash_ids": [0, 1, 2, 3, 4, 137]}
