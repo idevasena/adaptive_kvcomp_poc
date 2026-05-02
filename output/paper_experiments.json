@@ -1,0 +1,112 @@
+{
+  "exp7": [
+    {
+      "trace": "arxiv",
+      "policy": "KVZap fixed",
+      "cr": 2.059,
+      "stability": 0.781,
+      "reuse": 0.0396,
+      "memory_savings": 0.569,
+      "cv": 0.2193
+    },
+    {
+      "trace": "arxiv",
+      "policy": "KVZap adaptive",
+      "cr": 1.544,
+      "stability": 0.848,
+      "reuse": 0.2125,
+      "memory_savings": 0.392,
+      "cv": 0.1522
+    },
+    {
+      "trace": "arxiv",
+      "policy": "TriAttn adaptive",
+      "cr": 1.27,
+      "stability": 0.77,
+      "reuse": 0.5164,
+      "memory_savings": 0.241,
+      "cv": 0.23
+    },
+    {
+      "trace": "arxiv",
+      "policy": "TriAttn conserv.",
+      "cr": 1.157,
+      "stability": 0.859,
+      "reuse": 0.5506,
+      "memory_savings": 0.167,
+      "cv": 0.1415
+    },
+    {
+      "trace": "conversation",
+      "policy": "KVZap fixed",
+      "cr": 1.438,
+      "stability": 0.815,
+      "reuse": 0.2633,
+      "memory_savings": 0.35,
+      "cv": 0.1849
+    },
+    {
+      "trace": "conversation",
+      "policy": "KVZap adaptive",
+      "cr": 1.245,
+      "stability": 0.935,
+      "reuse": 0.5742,
+      "memory_savings": 0.207,
+      "cv": 0.0653
+    },
+    {
+      "trace": "conversation",
+      "policy": "TriAttn adaptive",
+      "cr": 1.008,
+      "stability": 0.973,
+      "reuse": 0.9636,
+      "memory_savings": 0.017,
+      "cv": 0.0272
+    },
+    {
+      "trace": "conversation",
+      "policy": "TriAttn conserv.",
+      "cr": 1.004,
+      "stability": 0.984,
+      "reuse": 0.9776,
+      "memory_savings": 0.01,
+      "cv": 0.0163
+    },
+    {
+      "trace": "tool_agent",
+      "policy": "KVZap fixed",
+      "cr": 1.715,
+      "stability": 0.747,
+      "reuse": 0.106,
+      "memory_savings": 0.497,
+      "cv": 0.2532
+    },
+    {
+      "trace": "tool_agent",
+      "policy": "KVZap adaptive",
+      "cr": 1.324,
+      "stability": 0.857,
+      "reuse": 0.3724,
+      "memory_savings": 0.3,
+      "cv": 0.1427
+    },
+    {
+      "trace": "tool_agent",
+      "policy": "TriAttn adaptive",
+      "cr": 1.074,
+      "stability": 0.841,
+      "reuse": 0.7531,
+      "memory_savings": 0.122,
+      "cv": 0.1589
+    },
+    {
+      "trace": "tool_agent",
+      "policy": "TriAttn conserv.",
+      "cr": 1.046,
+      "stability": 0.899,
+      "reuse": 0.7727,
+      "memory_savings": 0.085,
+      "cv": 0.1008
+    }
+  ]
+}
