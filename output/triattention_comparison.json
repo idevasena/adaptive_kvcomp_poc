@@ -1,0 +1,418 @@
+{
+  "exp_a": [
+    {
+      "length": 1024,
+      "scorer": "KVZap-MLP",
+      "mean": -0.02246846762473995,
+      "std": 1.5576801816176837,
+      "entropy": 2.918389066123788,
+      "retain_at_neg1": 0.7890625,
+      "retain_at_0": 0.3291015625,
+      "prefix_3block_score": -0.02246846762473995,
+      "last_128_score": 3.1621584864277796
+    },
+    {
+      "length": 1024,
+      "scorer": "TriAttention",
+      "mean": 0.12407313663788146,
+      "std": 0.06207273084553158,
+      "entropy": 2.880755866590762,
+      "retain_at_neg1": 1.0,
+      "retain_at_0": 0.9375,
+      "prefix_3block_score": 0.12407313663788146,
+      "last_128_score": 0.1064540156165664
+    },
+    {
+      "length": 4096,
+      "scorer": "KVZap-MLP",
+      "mean": -0.8764514514758273,
+      "std": 1.2165612466431825,
+      "entropy": 2.8516782983469313,
+      "retain_at_neg1": 0.539794921875,
+      "retain_at_0": 0.178466796875,
+      "prefix_3block_score": -0.7790983656976257,
+      "last_128_score": 2.1205980891712097
+    },
+    {
+      "length": 4096,
+      "scorer": "TriAttention",
+      "mean": 0.12254586878414868,
+      "std": 0.062460688808789896,
+      "entropy": 3.1266048020586457,
+      "retain_at_neg1": 1.0,
+      "retain_at_0": 0.957275390625,
+      "prefix_3block_score": 0.12690426110740197,
+      "last_128_score": 0.10544745645854894
+    },
+    {
+      "length": 8192,
+      "scorer": "KVZap-MLP",
+      "mean": -1.190479498542922,
+      "std": 1.127357221831238,
+      "entropy": 3.0126913563541518,
+      "retain_at_neg1": 0.4200439453125,
+      "retain_at_0": 0.137451171875,
+      "prefix_3block_score": -1.0161615563295263,
+      "last_128_score": 1.9896931738915238
+    },
+    {
+      "length": 8192,
+      "scorer": "TriAttention",
+      "mean": 0.12300178287775777,
+      "std": 0.062230717499694686,
+      "entropy": 3.187787358044215,
+      "retain_at_neg1": 1.0,
+      "retain_at_0": 0.9674072265625,
+      "prefix_3block_score": 0.12880036345356974,
+      "last_128_score": 0.10535833370928874
+    },
+    {
+      "length": 16384,
+      "scorer": "KVZap-MLP",
+      "mean": -1.4120753890304076,
+      "std": 1.1758456728324291,
+      "entropy": 3.04679402016354,
+      "retain_at_neg1": 0.35552978515625,
+      "retain_at_0": 0.1026611328125,
+      "prefix_3block_score": -1.629199842305628,
+      "last_128_score": 0.8377761203198385
+    },
+    {
+      "length": 16384,
+      "scorer": "TriAttention",
+      "mean": 0.12322288490739933,
+      "std": 0.06239395596146656,
+      "entropy": 3.1678749088177116,
+      "retain_at_neg1": 1.0,
+      "retain_at_0": 0.982177734375,
+      "prefix_3block_score": 0.129408903785149,
+      "last_128_score": 0.10528197427939644
+    },
+    {
+      "length": 32768,
+      "scorer": "KVZap-MLP",
+      "mean": -1.6179234707770505,
+      "std": 1.263502279653707,
+      "entropy": 3.0020069657388486,
+      "retain_at_neg1": 0.308868408203125,
+      "retain_at_0": 0.1036376953125,
+      "prefix_3block_score": -1.8578253653446997,
+      "last_128_score": 0.9280961925065542
+    },
+    {
+      "length": 32768,
+      "scorer": "TriAttention",
+      "mean": 0.12317981590006323,
+      "std": 0.062238605356070564,
+      "entropy": 3.257870218808545,
+      "retain_at_neg1": 1.0,
+      "retain_at_0": 0.9852294921875,
+      "prefix_3block_score": 0.13051612655298564,
+      "last_128_score": 0.10514366876449062
+    }
+  ],
+  "exp_b": {
+    "KVZap fixed \u03c4=-1.0": {
+      "policy": "fixed(\u03c4=-1.00) | surrogate=mlp | window(base=128,task=general)",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 2.3,
+      "std_compression": 0.76,
+      "cv_compression": 0.33,
+      "memory_savings_pct": 65.9,
+      "mean_reuse_efficiency": 0.025,
+      "mean_threshold": -1.0,
+      "mean_window_size": 128.0,
+      "wall_time_sec": 5.38
+    },
+    "KVZap fixed \u03c4=-0.5": {
+      "policy": "fixed(\u03c4=-0.50) | surrogate=mlp | window(base=128,task=general)",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 3.7,
+      "std_compression": 1.51,
+      "cv_compression": 0.408,
+      "memory_savings_pct": 79.4,
+      "mean_reuse_efficiency": 0.015,
+      "mean_threshold": -0.5,
+      "mean_window_size": 128.0,
+      "wall_time_sec": 4.85
+    },
+    "KVZap adaptive 2\u00d7": {
+      "policy": "adaptive(target=2.0x) | surrogate=mlp | window(base=128,sinks=4,scaled,score-aware,task=general) | reuse-aware",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 1.84,
+      "std_compression": 0.25,
+      "cv_compression": 0.137,
+      "memory_savings_pct": 49.0,
+      "mean_reuse_efficiency": 0.063,
+      "mean_threshold": -0.951,
+      "mean_window_size": 128.9,
+      "wall_time_sec": 4.42
+    },
+    "KVZap conservative": {
+      "policy": "adaptive(target=1.5x) | surrogate=mlp | window(base=256,sinks=4,scaled,score-aware,task=general) | reuse-aware",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 1.42,
+      "std_compression": 0.16,
+      "cv_compression": 0.11,
+      "memory_savings_pct": 33.3,
+      "mean_reuse_efficiency": 0.146,
+      "mean_threshold": -1.445,
+      "mean_window_size": 256.0,
+      "wall_time_sec": 4.49
+    },
+    "KVZap latency-opt": {
+      "policy": "adaptive(target=2.0x) | surrogate=mlp | window(base=128,sinks=4,task=general)",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 2.2,
+      "std_compression": 0.25,
+      "cv_compression": 0.115,
+      "memory_savings_pct": 51.9,
+      "mean_reuse_efficiency": 0.021,
+      "mean_threshold": -0.943,
+      "mean_window_size": 128.0,
+      "wall_time_sec": 4.43
+    },
+    "TriAttn fixed \u03c4=0.08": {
+      "policy": "fixed(\u03c4=0.08) | surrogate=mlp | window(base=128,task=general)",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 1.33,
+      "std_compression": 0.04,
+      "cv_compression": 0.028,
+      "memory_savings_pct": 25.7,
+      "mean_reuse_efficiency": 0.204,
+      "mean_threshold": 0.08,
+      "mean_window_size": 128.0,
+      "wall_time_sec": 49.55
+    },
+    "TriAttn fixed \u03c4=0.10": {
+      "policy": "fixed(\u03c4=0.10) | surrogate=mlp | window(base=128,task=general)",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 1.54,
+      "std_compression": 0.14,
+      "cv_compression": 0.089,
+      "memory_savings_pct": 35.6,
+      "mean_reuse_efficiency": 0.034,
+      "mean_threshold": 0.1,
+      "mean_window_size": 128.0,
+      "wall_time_sec": 52.37
+    },
+    "TriAttn adaptive 2\u00d7": {
+      "policy": "adaptive(target=2.0x) | surrogate=mlp | window(base=128,sinks=4,scaled,score-aware,task=general) | reuse-aware",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 1.63,
+      "std_compression": 0.37,
+      "cv_compression": 0.228,
+      "memory_savings_pct": 41.0,
+      "mean_reuse_efficiency": 0.178,
+      "mean_threshold": 0.123,
+      "mean_window_size": 129.3,
+      "wall_time_sec": 51.12
+    },
+    "TriAttn conservative": {
+      "policy": "adaptive(target=1.5x) | surrogate=mlp | window(base=256,sinks=4,scaled,score-aware,task=general) | reuse-aware",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 1.34,
+      "std_compression": 0.19,
+      "cv_compression": 0.145,
+      "memory_savings_pct": 28.4,
+      "mean_reuse_efficiency": 0.218,
+      "mean_threshold": 0.098,
+      "mean_window_size": 256.0,
+      "wall_time_sec": 49.79
+    },
+    "TriAttn adapt (no reuse)": {
+      "policy": "adaptive(target=2.0x) | surrogate=mlp | window(base=128,sinks=4,scaled,score-aware,task=general)",
+      "trace": "conversation",
+      "requests": 500,
+      "mean_compression": 1.9,
+      "std_compression": 0.3,
+      "cv_compression": 0.157,
+      "memory_savings_pct": 48.6,
+      "mean_reuse_efficiency": 0.025,
+      "mean_threshold": 0.123,
+      "mean_window_size": 132.6,
+      "wall_time_sec": 50.75
+    }
+  },
+  "exp_c": [
+    {
+      "scorer": "KVZap-MLP",
+      "bonus_scale": 0.0,
+      "cr": 2.1365603501103054,
+      "cv": 0.0622599769358863,
+      "reuse": 0.0232670867668444,
+      "mem_pct": 51.722865024581125,
+      "delta_reuse": 0.0
+    },
+    {
+      "scorer": "KVZap-MLP",
+      "bonus_scale": 0.1,
+      "cr": 1.977608154802366,
+      "cv": 0.07994206976990192,
+      "reuse": 0.031749878817256424,
+      "mem_pct": 50.60847478718817,
+      "delta_reuse": 0.008482792050412025
+    },
+    {
+      "scorer": "KVZap-MLP",
+      "bonus_scale": 0.25,
+      "cr": 1.8424764643393226,
+      "cv": 0.13724104794205483,
+      "reuse": 0.06301502666020359,
+      "mem_pct": 48.99146501808575,
+      "delta_reuse": 0.03974793989335919
+    },
+    {
+      "scorer": "KVZap-MLP",
+      "bonus_scale": 0.5,
+      "cr": 1.7964386648869874,
+      "cv": 0.16890484727309402,
+      "reuse": 0.07497172402649863,
+      "mem_pct": 47.71068716845873,
+      "delta_reuse": 0.051704637259654226
+    },
+    {
+      "scorer": "KVZap-MLP",
+      "bonus_scale": 0.75,
+      "cr": 1.784872640838429,
+      "cv": 0.17646614681410505,
+      "reuse": 0.1030053320407174,
+      "mem_pct": 46.62178000821247,
+      "delta_reuse": 0.079738245273873
+    },
+    {
+      "scorer": "TriAttention",
+      "bonus_scale": 0.0,
+      "cr": 1.8954437036400924,
+      "cv": 0.1568446824606587,
+      "reuse": 0.024802068185490387,
+      "mem_pct": 48.55331686767482,
+      "delta_reuse": 0.0
+    },
+    {
+      "scorer": "TriAttention",
+      "bonus_scale": 0.1,
+      "cr": 1.6330171479395361,
+      "cv": 0.2262407222504584,
+      "reuse": 0.1776539020843432,
+      "mem_pct": 41.231425891513794,
+      "delta_reuse": 0.15285183389885282
+    },
+    {
+      "scorer": "TriAttention",
+      "bonus_scale": 0.25,
+      "cr": 1.631031121653798,
+      "cv": 0.22831357643239367,
+      "reuse": 0.177573113588625,
+      "mem_pct": 40.958861470777094,
+      "delta_reuse": 0.1527710454031346
+    },
+    {
+      "scorer": "TriAttention",
+      "bonus_scale": 0.5,
+      "cr": 1.6313844588188264,
+      "cv": 0.2282196672455676,
+      "reuse": 0.1776539020843432,
+      "mem_pct": 40.972045144758354,
+      "delta_reuse": 0.15285183389885282
+    },
+    {
+      "scorer": "TriAttention",
+      "bonus_scale": 0.75,
+      "cr": 1.6313926431334067,
+      "cv": 0.22834816047965473,
+      "reuse": 0.1776539020843432,
+      "mem_pct": 40.97278471671339,
+      "delta_reuse": 0.15285183389885282
+    }
+  ],
+  "exp_d": {
+    "conversation": {
+      "KVZap fixed \u03c4=-1.0": {
+        "cr": 2.2964075577823944,
+        "cv": 0.3300964099575365,
+        "reuse": 0.024963645176926806,
+        "mem_pct": 65.93751838881356
+      },
+      "KVZap adaptive+reuse": {
+        "cr": 1.8402317388437288,
+        "cv": 0.14383289101053987,
+        "reuse": 0.06519631604459525,
+        "mem_pct": 48.89811817523804
+      },
+      "TriAttn adapt+reuse": {
+        "cr": 1.6312762319262806,
+        "cv": 0.22829581277753663,
+        "reuse": 0.1777346905800614,
+        "mem_pct": 40.97175574703681
+      },
+      "TriAttn conservative": {
+        "cr": 1.3384415186677399,
+        "cv": 0.14542311074790137,
+        "reuse": 0.217644207464857,
+        "mem_pct": 28.43326183065924
+      }
+    },
+    "synthetic": {
+      "KVZap fixed \u03c4=-1.0": {
+        "cr": 2.2521928369710005,
+        "cv": 0.4534659875197235,
+        "reuse": 0.022631402745229328,
+        "mem_pct": 68.53835236506107
+      },
+      "KVZap adaptive+reuse": {
+        "cr": 1.672358193476437,
+        "cv": 0.2728428336888664,
+        "reuse": 0.035554067626380984,
+        "mem_pct": 47.406240527349105
+      },
+      "TriAttn adapt+reuse": {
+        "cr": 1.423223454204065,
+        "cv": 0.334344788157613,
+        "reuse": 0.39035821894877804,
+        "mem_pct": 30.415313049463812
+      },
+      "TriAttn conservative": {
+        "cr": 1.222629121842465,
+        "cv": 0.20685796153392352,
+        "reuse": 0.41600267827251425,
+        "mem_pct": 21.164960371534136
+      }
+    },
+    "toolagent": {
+      "KVZap fixed \u03c4=-1.0": {
+        "cr": 2.18319935157373,
+        "cv": 0.22291669775488607,
+        "reuse": 0.044607781016347735,
+        "mem_pct": 59.30741287783192
+      },
+      "KVZap adaptive+reuse": {
+        "cr": 1.5261313537172103,
+        "cv": 0.2435104880706435,
+        "reuse": 0.34051451020149537,
+        "mem_pct": 36.7843135039906
+      },
+      "TriAttn adapt+reuse": {
+        "cr": 1.3460098360269734,
+        "cv": 0.2997311563213393,
+        "reuse": 0.4279558991255861,
+        "mem_pct": 28.768922564947697
+      },
+      "TriAttn conservative": {
+        "cr": 1.186055318802754,
+        "cv": 0.1790759392560605,
+        "reuse": 0.4712964136357876,
+        "mem_pct": 19.784114018442533
+      }
+    }
+  }
+}
